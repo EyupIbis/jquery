@@ -1,1 +1,1 @@
-# jquery
+https://eyupibis.github.io/jquery/
