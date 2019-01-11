@@ -1,1 +1,1 @@
-https://eyupibis.github.io/jquery/
+https://eyupibis.github.io/jquery/jquery-form/
